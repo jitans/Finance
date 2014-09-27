@@ -1,0 +1,16 @@
+adjustBeta              Adjust the beta parameters from a single index
+                        model
+getCorr                 Average correlation
+getReturns              Obtain stock data from Yahoo Finance
+optimalPort             Estimate the optimal portfolio
+portCloud               Plot a portfolio cloud
+portPossCurve           Plot the portfolio possibilities curve
+portReturn              Estimate return and risk of a portfolio
+stock04                 Data for 24 stocks and 1 index, 2004-9
+stock94                 Data for 24 stocks and 1 index, 1994-9
+stock94Info             Ticker and industry information
+stock99                 Data for 24 stocks and 1 index, 1999-2004
+stockModel              Create a stock model
+stockPortfolio-package
+                        Build and manage stock models and portfolios
+testPort                Test a portfolio on a data set

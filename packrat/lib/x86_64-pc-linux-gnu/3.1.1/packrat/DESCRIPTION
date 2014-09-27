@@ -1,0 +1,24 @@
+Package: packrat
+Type: Package
+Title: Reproducible dependency management
+Version: 0.4.0.12
+Date: 2013-10-28
+Author: RStudio, Inc.
+Maintainer: Kevin Ushey <kevin@rstudio.com>
+Description: Packrat is a tool for managing the R packages your project
+    depends on in an isolated, portable, and reproducible way.
+License: GPL-2
+Depends: R (>= 3.0)
+Imports: tools, utils
+Suggests: testthat (>= 0.7), devtools
+Enhances: knitr, BiocInstaller
+URL: http://github.com/rstudio/packrat/
+BugReports: https://github.com/rstudio/packrat/issues
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: v0.98.1000
+GithubSHA1: e738f79a22521c57fad67a1679302385973cd958
+Built: R 3.1.1; ; 2014-09-27 18:32:39 UTC; unix
+InstallAgent: packrat 0.4.0.12
+InstallSource: github
+Hash: e738f79a22521c57fad67a1679302385973cd958

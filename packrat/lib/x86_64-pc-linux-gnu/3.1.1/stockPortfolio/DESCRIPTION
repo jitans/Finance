@@ -1,0 +1,22 @@
+Package: stockPortfolio
+Type: Package
+Title: Build stock models and analyze stock portfolios.
+Version: 1.2
+Date: 2012-03-14
+Author: David Diez and Nicolas Christou
+Maintainer: David Diez <david.m.diez@gmail.com>
+Description: Download stock data, build single index, constant
+    correlation, and multigroup models, and estimate optimal stock
+    portfolios. Plotting functions for the portfolio possibilities
+    curve and portfolio cloud are included. A function to test a
+    portfolio on a data set is also provided.
+License: GPL (>= 2)
+LazyLoad: yes
+Depends: stats, graphics, grDevices, utils
+Packaged: 2012-03-14 14:50:10 UTC; ddiez
+Repository: CRAN
+Date/Publication: 2012-03-14 16:03:05
+Built: R 3.1.1; ; 2014-09-27 18:44:10 UTC; unix
+InstallAgent: packrat 0.4.0.12
+InstallSource: CRAN
+Hash: 6a04bd957dfde83174bc28c717bba5bd
